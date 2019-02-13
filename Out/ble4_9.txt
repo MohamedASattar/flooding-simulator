@@ -1,0 +1,2909 @@
+::Flooding Simulation::
+-> lifeTimeMinutes: 60
+-> readersEntryRatePerMinute: 0.2
+-> minPresenceMinutes: 1
+-> maxPresenceMinutes: 60
+-> filteringMethodInt: 4
+-> ProbabilisticFilter.PROBABILITY: 0.9
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 0
+Total unknown readings: 0
+Total filtered readings: 0
+Total uploaded readings: 0
+
+Average recieved readings per reader: 0
+Average unknown readings per reader: 0
+Average filtered readings per reader: 0
+Average uploaded readings per reader: 0
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 0
+Total number of lost readings: 0
+Total number of received readings: 0
+Total number of uploaded readings: 0
+Total number of filtered readings: 0
+
+Average number of receiving readers per reading over all readings: 0
+Average number of uploading readers per reading over all readings: 0
+Average number of filtering readers per reading over all readings: 0
+
+Average number of receiving readers per reading over received readings: 0
+Average number of uploading readers per reading over received readings: 0
+Average number of filtering readers per reading over received readings: 0
+
+Average number of uploading readers per reading over uploaded readings: 0
+
+Average upload delay per reading over uploaded readings: 0
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 226
+Total unknown readings: 104
+Total filtered readings: 115
+Total uploaded readings: 7
+
+Average recieved readings per reader: 18.8333333333333
+Average unknown readings per reader: 8.66666666666667
+Average filtered readings per reader: 9.58333333333333
+Average uploaded readings per reader: 0.583333333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 11
+Total number of lost readings: 0
+Total number of received readings: 11
+Total number of uploaded readings: 4
+Total number of filtered readings: 7
+
+Average number of receiving readers per reading over all readings: 11.0909090909091
+Average number of uploading readers per reading over all readings: 0.636363636363636
+Average number of filtering readers per reading over all readings: 10.4545454545455
+
+Average number of receiving readers per reading over received readings: 11.0909090909091
+Average number of uploading readers per reading over received readings: 0.636363636363636
+Average number of filtering readers per reading over received readings: 10.4545454545455
+
+Average number of uploading readers per reading over uploaded readings: 1.75
+
+Average upload delay per reading over uploaded readings: 4836
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 452
+Total unknown readings: 219
+Total filtered readings: 221
+Total uploaded readings: 12
+
+Average recieved readings per reader: 37.6666666666667
+Average unknown readings per reader: 18.25
+Average filtered readings per reader: 18.4166666666667
+Average uploaded readings per reader: 1
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 12
+Total number of lost readings: 0
+Total number of received readings: 12
+Total number of uploaded readings: 6
+Total number of filtered readings: 6
+
+Average number of receiving readers per reading over all readings: 19.4166666666667
+Average number of uploading readers per reading over all readings: 1
+Average number of filtering readers per reading over all readings: 18.4166666666667
+
+Average number of receiving readers per reading over received readings: 19.4166666666667
+Average number of uploading readers per reading over received readings: 1
+Average number of filtering readers per reading over received readings: 18.4166666666667
+
+Average number of uploading readers per reading over uploaded readings: 2
+
+Average upload delay per reading over uploaded readings: 34885.1666666667
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 684
+Total unknown readings: 332
+Total filtered readings: 338
+Total uploaded readings: 14
+
+Average recieved readings per reader: 57
+Average unknown readings per reader: 27.6666666666667
+Average filtered readings per reader: 28.1666666666667
+Average uploaded readings per reader: 1.16666666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 13
+Total number of lost readings: 0
+Total number of received readings: 13
+Total number of uploaded readings: 7
+Total number of filtered readings: 6
+
+Average number of receiving readers per reading over all readings: 27.0769230769231
+Average number of uploading readers per reading over all readings: 1.07692307692308
+Average number of filtering readers per reading over all readings: 26
+
+Average number of receiving readers per reading over received readings: 27.0769230769231
+Average number of uploading readers per reading over received readings: 1.07692307692308
+Average number of filtering readers per reading over received readings: 26
+
+Average number of uploading readers per reading over uploaded readings: 2
+
+Average upload delay per reading over uploaded readings: 30797.8571428571
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 905
+Total unknown readings: 441
+Total filtered readings: 450
+Total uploaded readings: 14
+
+Average recieved readings per reader: 75.4166666666667
+Average unknown readings per reader: 36.75
+Average filtered readings per reader: 37.5
+Average uploaded readings per reader: 1.16666666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 16
+Total number of lost readings: 0
+Total number of received readings: 16
+Total number of uploaded readings: 7
+Total number of filtered readings: 9
+
+Average number of receiving readers per reading over all readings: 29
+Average number of uploading readers per reading over all readings: 0.875
+Average number of filtering readers per reading over all readings: 28.125
+
+Average number of receiving readers per reading over received readings: 29
+Average number of uploading readers per reading over received readings: 0.875
+Average number of filtering readers per reading over received readings: 28.125
+
+Average number of uploading readers per reading over uploaded readings: 2
+
+Average upload delay per reading over uploaded readings: 30797.8571428571
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 1127
+Total unknown readings: 548
+Total filtered readings: 564
+Total uploaded readings: 15
+
+Average recieved readings per reader: 93.9166666666667
+Average unknown readings per reader: 45.6666666666667
+Average filtered readings per reader: 47
+Average uploaded readings per reader: 1.25
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 17
+Total number of lost readings: 0
+Total number of received readings: 17
+Total number of uploaded readings: 7
+Total number of filtered readings: 10
+
+Average number of receiving readers per reading over all readings: 34.0588235294118
+Average number of uploading readers per reading over all readings: 0.882352941176471
+Average number of filtering readers per reading over all readings: 33.1764705882353
+
+Average number of receiving readers per reading over received readings: 34.0588235294118
+Average number of uploading readers per reading over received readings: 0.882352941176471
+Average number of filtering readers per reading over received readings: 33.1764705882353
+
+Average number of uploading readers per reading over uploaded readings: 2.14285714285714
+
+Average upload delay per reading over uploaded readings: 30797.8571428571
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 1363
+Total unknown readings: 660
+Total filtered readings: 685
+Total uploaded readings: 18
+
+Average recieved readings per reader: 113.583333333333
+Average unknown readings per reader: 55
+Average filtered readings per reader: 57.0833333333333
+Average uploaded readings per reader: 1.5
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 18
+Total number of lost readings: 0
+Total number of received readings: 18
+Total number of uploaded readings: 9
+Total number of filtered readings: 9
+
+Average number of receiving readers per reading over all readings: 39.0555555555556
+Average number of uploading readers per reading over all readings: 1
+Average number of filtering readers per reading over all readings: 38.0555555555556
+
+Average number of receiving readers per reading over received readings: 39.0555555555556
+Average number of uploading readers per reading over received readings: 1
+Average number of filtering readers per reading over received readings: 38.0555555555556
+
+Average number of uploading readers per reading over uploaded readings: 2
+
+Average upload delay per reading over uploaded readings: 73945.8888888889
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 1797
+Total unknown readings: 862
+Total filtered readings: 914
+Total uploaded readings: 21
+
+Average recieved readings per reader: 149.75
+Average unknown readings per reader: 71.8333333333333
+Average filtered readings per reader: 76.1666666666667
+Average uploaded readings per reader: 1.75
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 18
+Total number of lost readings: 0
+Total number of received readings: 18
+Total number of uploaded readings: 12
+Total number of filtered readings: 6
+
+Average number of receiving readers per reading over all readings: 51.9444444444444
+Average number of uploading readers per reading over all readings: 1.16666666666667
+Average number of filtering readers per reading over all readings: 50.7777777777778
+
+Average number of receiving readers per reading over received readings: 51.9444444444444
+Average number of uploading readers per reading over received readings: 1.16666666666667
+Average number of filtering readers per reading over received readings: 50.7777777777778
+
+Average number of uploading readers per reading over uploaded readings: 1.75
+
+Average upload delay per reading over uploaded readings: 105594.25
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 2245
+Total unknown readings: 1082
+Total filtered readings: 1134
+Total uploaded readings: 29
+
+Average recieved readings per reader: 187.083333333333
+Average unknown readings per reader: 90.1666666666667
+Average filtered readings per reader: 94.5
+Average uploaded readings per reader: 2.41666666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 19
+Total number of lost readings: 0
+Total number of received readings: 19
+Total number of uploaded readings: 14
+Total number of filtered readings: 5
+
+Average number of receiving readers per reading over all readings: 61.2105263157895
+Average number of uploading readers per reading over all readings: 1.52631578947368
+Average number of filtering readers per reading over all readings: 59.6842105263158
+
+Average number of receiving readers per reading over received readings: 61.2105263157895
+Average number of uploading readers per reading over received readings: 1.52631578947368
+Average number of filtering readers per reading over received readings: 59.6842105263158
+
+Average number of uploading readers per reading over uploaded readings: 2.07142857142857
+
+Average upload delay per reading over uploaded readings: 109288.142857143
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 2705
+Total unknown readings: 1306
+Total filtered readings: 1366
+Total uploaded readings: 33
+
+Average recieved readings per reader: 225.416666666667
+Average unknown readings per reader: 108.833333333333
+Average filtered readings per reader: 113.833333333333
+Average uploaded readings per reader: 2.75
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 26
+Total number of lost readings: 0
+Total number of received readings: 26
+Total number of uploaded readings: 15
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 53.8076923076923
+Average number of uploading readers per reading over all readings: 1.26923076923077
+Average number of filtering readers per reading over all readings: 52.5384615384615
+
+Average number of receiving readers per reading over received readings: 53.8076923076923
+Average number of uploading readers per reading over received readings: 1.26923076923077
+Average number of filtering readers per reading over received readings: 52.5384615384615
+
+Average number of uploading readers per reading over uploaded readings: 2.2
+
+Average upload delay per reading over uploaded readings: 105120.133333333
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 3177
+Total unknown readings: 1526
+Total filtered readings: 1616
+Total uploaded readings: 35
+
+Average recieved readings per reader: 264.75
+Average unknown readings per reader: 127.166666666667
+Average filtered readings per reader: 134.666666666667
+Average uploaded readings per reader: 2.91666666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 27
+Total number of lost readings: 0
+Total number of received readings: 27
+Total number of uploaded readings: 16
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 61.1481481481481
+Average number of uploading readers per reading over all readings: 1.2962962962963
+Average number of filtering readers per reading over all readings: 59.8518518518519
+
+Average number of receiving readers per reading over received readings: 61.1481481481481
+Average number of uploading readers per reading over received readings: 1.2962962962963
+Average number of filtering readers per reading over received readings: 59.8518518518519
+
+Average number of uploading readers per reading over uploaded readings: 2.1875
+
+Average upload delay per reading over uploaded readings: 99568.5
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 3617
+Total unknown readings: 1734
+Total filtered readings: 1845
+Total uploaded readings: 38
+
+Average recieved readings per reader: 301.416666666667
+Average unknown readings per reader: 144.5
+Average filtered readings per reader: 153.75
+Average uploaded readings per reader: 3.16666666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 28
+Total number of lost readings: 0
+Total number of received readings: 28
+Total number of uploaded readings: 16
+Total number of filtered readings: 12
+
+Average number of receiving readers per reading over all readings: 67.25
+Average number of uploading readers per reading over all readings: 1.35714285714286
+Average number of filtering readers per reading over all readings: 65.8928571428571
+
+Average number of receiving readers per reading over received readings: 67.25
+Average number of uploading readers per reading over received readings: 1.35714285714286
+Average number of filtering readers per reading over received readings: 65.8928571428571
+
+Average number of uploading readers per reading over uploaded readings: 2.375
+
+Average upload delay per reading over uploaded readings: 99568.5
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 4283
+Total unknown readings: 2052
+Total filtered readings: 2179
+Total uploaded readings: 52
+
+Average recieved readings per reader: 356.916666666667
+Average unknown readings per reader: 171
+Average filtered readings per reader: 181.583333333333
+Average uploaded readings per reader: 4.33333333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 29
+Total number of lost readings: 0
+Total number of received readings: 29
+Total number of uploaded readings: 17
+Total number of filtered readings: 12
+
+Average number of receiving readers per reading over all readings: 76.9310344827586
+Average number of uploading readers per reading over all readings: 1.79310344827586
+Average number of filtering readers per reading over all readings: 75.1379310344828
+
+Average number of receiving readers per reading over received readings: 76.9310344827586
+Average number of uploading readers per reading over received readings: 1.79310344827586
+Average number of filtering readers per reading over received readings: 75.1379310344828
+
+Average number of uploading readers per reading over uploaded readings: 3.05882352941176
+
+Average upload delay per reading over uploaded readings: 104356.647058824
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 4940
+Total unknown readings: 2376
+Total filtered readings: 2496
+Total uploaded readings: 68
+
+Average recieved readings per reader: 411.666666666667
+Average unknown readings per reader: 198
+Average filtered readings per reader: 208
+Average uploaded readings per reader: 5.66666666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 30
+Total number of lost readings: 0
+Total number of received readings: 30
+Total number of uploaded readings: 19
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 85.4666666666667
+Average number of uploading readers per reading over all readings: 2.26666666666667
+Average number of filtering readers per reading over all readings: 83.2
+
+Average number of receiving readers per reading over received readings: 85.4666666666667
+Average number of uploading readers per reading over received readings: 2.26666666666667
+Average number of filtering readers per reading over received readings: 83.2
+
+Average number of uploading readers per reading over uploaded readings: 3.57894736842105
+
+Average upload delay per reading over uploaded readings: 108000.947368421
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 5624
+Total unknown readings: 2706
+Total filtered readings: 2832
+Total uploaded readings: 86
+
+Average recieved readings per reader: 468.666666666667
+Average unknown readings per reader: 225.5
+Average filtered readings per reader: 236
+Average uploaded readings per reader: 7.16666666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 33
+Total number of lost readings: 0
+Total number of received readings: 33
+Total number of uploaded readings: 22
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 88.4242424242424
+Average number of uploading readers per reading over all readings: 2.60606060606061
+Average number of filtering readers per reading over all readings: 85.8181818181818
+
+Average number of receiving readers per reading over received readings: 88.4242424242424
+Average number of uploading readers per reading over received readings: 2.60606060606061
+Average number of filtering readers per reading over received readings: 85.8181818181818
+
+Average number of uploading readers per reading over uploaded readings: 3.90909090909091
+
+Average upload delay per reading over uploaded readings: 109979.727272727
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 6284
+Total unknown readings: 3024
+Total filtered readings: 3168
+Total uploaded readings: 92
+
+Average recieved readings per reader: 523.666666666667
+Average unknown readings per reader: 252
+Average filtered readings per reader: 264
+Average uploaded readings per reader: 7.66666666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 34
+Total number of lost readings: 0
+Total number of received readings: 34
+Total number of uploaded readings: 23
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 95.8823529411765
+Average number of uploading readers per reading over all readings: 2.70588235294118
+Average number of filtering readers per reading over all readings: 93.1764705882353
+
+Average number of receiving readers per reading over received readings: 95.8823529411765
+Average number of uploading readers per reading over received readings: 2.70588235294118
+Average number of filtering readers per reading over received readings: 93.1764705882353
+
+Average number of uploading readers per reading over uploaded readings: 4
+
+Average upload delay per reading over uploaded readings: 105285.086956522
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 6944
+Total unknown readings: 3350
+Total filtered readings: 3496
+Total uploaded readings: 98
+
+Average recieved readings per reader: 578.666666666667
+Average unknown readings per reader: 279.166666666667
+Average filtered readings per reader: 291.333333333333
+Average uploaded readings per reader: 8.16666666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 34
+Total number of lost readings: 0
+Total number of received readings: 34
+Total number of uploaded readings: 23
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 105.705882352941
+Average number of uploading readers per reading over all readings: 2.88235294117647
+Average number of filtering readers per reading over all readings: 102.823529411765
+
+Average number of receiving readers per reading over received readings: 105.705882352941
+Average number of uploading readers per reading over received readings: 2.88235294117647
+Average number of filtering readers per reading over received readings: 102.823529411765
+
+Average number of uploading readers per reading over uploaded readings: 4.26086956521739
+
+Average upload delay per reading over uploaded readings: 105285.086956522
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 7856
+Total unknown readings: 3798
+Total filtered readings: 3949
+Total uploaded readings: 109
+
+Average recieved readings per reader: 654.666666666667
+Average unknown readings per reader: 316.5
+Average filtered readings per reader: 329.083333333333
+Average uploaded readings per reader: 9.08333333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 34
+Total number of lost readings: 0
+Total number of received readings: 34
+Total number of uploaded readings: 23
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 119.352941176471
+Average number of uploading readers per reading over all readings: 3.20588235294118
+Average number of filtering readers per reading over all readings: 116.147058823529
+
+Average number of receiving readers per reading over received readings: 119.352941176471
+Average number of uploading readers per reading over received readings: 3.20588235294118
+Average number of filtering readers per reading over received readings: 116.147058823529
+
+Average number of uploading readers per reading over uploaded readings: 4.73913043478261
+
+Average upload delay per reading over uploaded readings: 105285.086956522
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 8764
+Total unknown readings: 4222
+Total filtered readings: 4419
+Total uploaded readings: 123
+
+Average recieved readings per reader: 730.333333333333
+Average unknown readings per reader: 351.833333333333
+Average filtered readings per reader: 368.25
+Average uploaded readings per reader: 10.25
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 35
+Total number of lost readings: 0
+Total number of received readings: 35
+Total number of uploaded readings: 25
+Total number of filtered readings: 10
+
+Average number of receiving readers per reading over all readings: 129.771428571429
+Average number of uploading readers per reading over all readings: 3.51428571428571
+Average number of filtering readers per reading over all readings: 126.257142857143
+
+Average number of receiving readers per reading over received readings: 129.771428571429
+Average number of uploading readers per reading over received readings: 3.51428571428571
+Average number of filtering readers per reading over received readings: 126.257142857143
+
+Average number of uploading readers per reading over uploaded readings: 4.92
+
+Average upload delay per reading over uploaded readings: 107140.84
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 9636
+Total unknown readings: 4646
+Total filtered readings: 4843
+Total uploaded readings: 147
+
+Average recieved readings per reader: 803
+Average unknown readings per reader: 387.166666666667
+Average filtered readings per reader: 403.583333333333
+Average uploaded readings per reader: 12.25
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 39
+Total number of lost readings: 0
+Total number of received readings: 39
+Total number of uploaded readings: 27
+Total number of filtered readings: 12
+
+Average number of receiving readers per reading over all readings: 127.948717948718
+Average number of uploading readers per reading over all readings: 3.76923076923077
+Average number of filtering readers per reading over all readings: 124.179487179487
+
+Average number of receiving readers per reading over received readings: 127.948717948718
+Average number of uploading readers per reading over received readings: 3.76923076923077
+Average number of filtering readers per reading over received readings: 124.179487179487
+
+Average number of uploading readers per reading over uploaded readings: 5.44444444444444
+
+Average upload delay per reading over uploaded readings: 99426.8148148148
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 10576
+Total unknown readings: 5074
+Total filtered readings: 5338
+Total uploaded readings: 164
+
+Average recieved readings per reader: 881.333333333333
+Average unknown readings per reader: 422.833333333333
+Average filtered readings per reader: 444.833333333333
+Average uploaded readings per reader: 13.6666666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 39
+Total number of lost readings: 0
+Total number of received readings: 39
+Total number of uploaded readings: 28
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 141.076923076923
+Average number of uploading readers per reading over all readings: 4.20512820512821
+Average number of filtering readers per reading over all readings: 136.871794871795
+
+Average number of receiving readers per reading over received readings: 141.076923076923
+Average number of uploading readers per reading over received readings: 4.20512820512821
+Average number of filtering readers per reading over received readings: 136.871794871795
+
+Average number of uploading readers per reading over uploaded readings: 5.85714285714286
+
+Average upload delay per reading over uploaded readings: 97948.1785714286
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 11468
+Total unknown readings: 5494
+Total filtered readings: 5795
+Total uploaded readings: 179
+
+Average recieved readings per reader: 955.666666666667
+Average unknown readings per reader: 457.833333333333
+Average filtered readings per reader: 482.916666666667
+Average uploaded readings per reader: 14.9166666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 39
+Total number of lost readings: 0
+Total number of received readings: 39
+Total number of uploaded readings: 28
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 153.179487179487
+Average number of uploading readers per reading over all readings: 4.58974358974359
+Average number of filtering readers per reading over all readings: 148.589743589744
+
+Average number of receiving readers per reading over received readings: 153.179487179487
+Average number of uploading readers per reading over received readings: 4.58974358974359
+Average number of filtering readers per reading over received readings: 148.589743589744
+
+Average number of uploading readers per reading over uploaded readings: 6.39285714285714
+
+Average upload delay per reading over uploaded readings: 97948.1785714286
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 12368
+Total unknown readings: 5910
+Total filtered readings: 6262
+Total uploaded readings: 196
+
+Average recieved readings per reader: 1030.66666666667
+Average unknown readings per reader: 492.5
+Average filtered readings per reader: 521.833333333333
+Average uploaded readings per reader: 16.3333333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 40
+Total number of lost readings: 0
+Total number of received readings: 40
+Total number of uploaded readings: 30
+Total number of filtered readings: 10
+
+Average number of receiving readers per reading over all readings: 161.45
+Average number of uploading readers per reading over all readings: 4.9
+Average number of filtering readers per reading over all readings: 156.55
+
+Average number of receiving readers per reading over received readings: 161.45
+Average number of uploading readers per reading over received readings: 4.9
+Average number of filtering readers per reading over received readings: 156.55
+
+Average number of uploading readers per reading over uploaded readings: 6.53333333333333
+
+Average upload delay per reading over uploaded readings: 145176.766666667
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 13304
+Total unknown readings: 6354
+Total filtered readings: 6731
+Total uploaded readings: 219
+
+Average recieved readings per reader: 1108.66666666667
+Average unknown readings per reader: 529.5
+Average filtered readings per reader: 560.916666666667
+Average uploaded readings per reader: 18.25
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 41
+Total number of lost readings: 0
+Total number of received readings: 41
+Total number of uploaded readings: 31
+Total number of filtered readings: 10
+
+Average number of receiving readers per reading over all readings: 169.512195121951
+Average number of uploading readers per reading over all readings: 5.34146341463415
+Average number of filtering readers per reading over all readings: 164.170731707317
+
+Average number of receiving readers per reading over received readings: 169.512195121951
+Average number of uploading readers per reading over received readings: 5.34146341463415
+Average number of filtering readers per reading over received readings: 164.170731707317
+
+Average number of uploading readers per reading over uploaded readings: 7.06451612903226
+
+Average upload delay per reading over uploaded readings: 141465.258064516
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 14236
+Total unknown readings: 6778
+Total filtered readings: 7215
+Total uploaded readings: 243
+
+Average recieved readings per reader: 1186.33333333333
+Average unknown readings per reader: 564.833333333333
+Average filtered readings per reader: 601.25
+Average uploaded readings per reader: 20.25
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 47
+Total number of lost readings: 0
+Total number of received readings: 47
+Total number of uploaded readings: 36
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 158.68085106383
+Average number of uploading readers per reading over all readings: 5.17021276595745
+Average number of filtering readers per reading over all readings: 153.510638297872
+
+Average number of receiving readers per reading over received readings: 158.68085106383
+Average number of uploading readers per reading over received readings: 5.17021276595745
+Average number of filtering readers per reading over received readings: 153.510638297872
+
+Average number of uploading readers per reading over uploaded readings: 6.75
+
+Average upload delay per reading over uploaded readings: 132602.527777778
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 15281
+Total unknown readings: 7283
+Total filtered readings: 7722
+Total uploaded readings: 276
+
+Average recieved readings per reader: 1273.41666666667
+Average unknown readings per reader: 606.916666666667
+Average filtered readings per reader: 643.5
+Average uploaded readings per reader: 23
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 48
+Total number of lost readings: 0
+Total number of received readings: 48
+Total number of uploaded readings: 37
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 166.625
+Average number of uploading readers per reading over all readings: 5.75
+Average number of filtering readers per reading over all readings: 160.875
+
+Average number of receiving readers per reading over received readings: 166.625
+Average number of uploading readers per reading over received readings: 5.75
+Average number of filtering readers per reading over received readings: 160.875
+
+Average number of uploading readers per reading over uploaded readings: 7.45945945945946
+
+Average upload delay per reading over uploaded readings: 129018.702702703
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 16456
+Total unknown readings: 7853
+Total filtered readings: 8300
+Total uploaded readings: 303
+
+Average recieved readings per reader: 1371.33333333333
+Average unknown readings per reader: 654.416666666667
+Average filtered readings per reader: 691.666666666667
+Average uploaded readings per reader: 25.25
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 49
+Total number of lost readings: 0
+Total number of received readings: 49
+Total number of uploaded readings: 39
+Total number of filtered readings: 10
+
+Average number of receiving readers per reading over all readings: 175.571428571429
+Average number of uploading readers per reading over all readings: 6.18367346938776
+Average number of filtering readers per reading over all readings: 169.387755102041
+
+Average number of receiving readers per reading over received readings: 175.571428571429
+Average number of uploading readers per reading over received readings: 6.18367346938776
+Average number of filtering readers per reading over received readings: 169.387755102041
+
+Average number of uploading readers per reading over uploaded readings: 7.76923076923077
+
+Average upload delay per reading over uploaded readings: 124973
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 17541
+Total unknown readings: 8393
+Total filtered readings: 8826
+Total uploaded readings: 322
+
+Average recieved readings per reader: 1461.75
+Average unknown readings per reader: 699.416666666667
+Average filtered readings per reader: 735.5
+Average uploaded readings per reader: 26.8333333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 50
+Total number of lost readings: 0
+Total number of received readings: 50
+Total number of uploaded readings: 40
+Total number of filtered readings: 10
+
+Average number of receiving readers per reading over all readings: 182.96
+Average number of uploading readers per reading over all readings: 6.44
+Average number of filtering readers per reading over all readings: 176.52
+
+Average number of receiving readers per reading over received readings: 182.96
+Average number of uploading readers per reading over received readings: 6.44
+Average number of filtering readers per reading over received readings: 176.52
+
+Average number of uploading readers per reading over uploaded readings: 8.05
+
+Average upload delay per reading over uploaded readings: 121848.675
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 18716
+Total unknown readings: 8923
+Total filtered readings: 9427
+Total uploaded readings: 366
+
+Average recieved readings per reader: 1559.66666666667
+Average unknown readings per reader: 743.583333333333
+Average filtered readings per reader: 785.583333333333
+Average uploaded readings per reader: 30.5
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 50
+Total number of lost readings: 0
+Total number of received readings: 50
+Total number of uploaded readings: 40
+Total number of filtered readings: 10
+
+Average number of receiving readers per reading over all readings: 195.86
+Average number of uploading readers per reading over all readings: 7.32
+Average number of filtering readers per reading over all readings: 188.54
+
+Average number of receiving readers per reading over received readings: 195.86
+Average number of uploading readers per reading over received readings: 7.32
+Average number of filtering readers per reading over received readings: 188.54
+
+Average number of uploading readers per reading over uploaded readings: 9.15
+
+Average upload delay per reading over uploaded readings: 121848.675
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 20042
+Total unknown readings: 9553
+Total filtered readings: 10087
+Total uploaded readings: 402
+
+Average recieved readings per reader: 1670.16666666667
+Average unknown readings per reader: 796.083333333333
+Average filtered readings per reader: 840.583333333333
+Average uploaded readings per reader: 33.5
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 54
+Total number of lost readings: 0
+Total number of received readings: 54
+Total number of uploaded readings: 44
+Total number of filtered readings: 10
+
+Average number of receiving readers per reading over all readings: 194.240740740741
+Average number of uploading readers per reading over all readings: 7.44444444444444
+Average number of filtering readers per reading over all readings: 186.796296296296
+
+Average number of receiving readers per reading over received readings: 194.240740740741
+Average number of uploading readers per reading over received readings: 7.44444444444444
+Average number of filtering readers per reading over received readings: 186.796296296296
+
+Average number of uploading readers per reading over uploaded readings: 9.13636363636364
+
+Average upload delay per reading over uploaded readings: 117597.477272727
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 21422
+Total unknown readings: 10201
+Total filtered readings: 10791
+Total uploaded readings: 430
+
+Average recieved readings per reader: 1785.16666666667
+Average unknown readings per reader: 850.083333333333
+Average filtered readings per reader: 899.25
+Average uploaded readings per reader: 35.8333333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 55
+Total number of lost readings: 0
+Total number of received readings: 55
+Total number of uploaded readings: 44
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 204.018181818182
+Average number of uploading readers per reading over all readings: 7.81818181818182
+Average number of filtering readers per reading over all readings: 196.2
+
+Average number of receiving readers per reading over received readings: 204.018181818182
+Average number of uploading readers per reading over received readings: 7.81818181818182
+Average number of filtering readers per reading over received readings: 196.2
+
+Average number of uploading readers per reading over uploaded readings: 9.77272727272727
+
+Average upload delay per reading over uploaded readings: 117597.477272727
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 22745
+Total unknown readings: 10845
+Total filtered readings: 11435
+Total uploaded readings: 465
+
+Average recieved readings per reader: 1895.41666666667
+Average unknown readings per reader: 903.75
+Average filtered readings per reader: 952.916666666667
+Average uploaded readings per reader: 38.75
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 56
+Total number of lost readings: 0
+Total number of received readings: 56
+Total number of uploaded readings: 47
+Total number of filtered readings: 9
+
+Average number of receiving readers per reading over all readings: 212.5
+Average number of uploading readers per reading over all readings: 8.30357142857143
+Average number of filtering readers per reading over all readings: 204.196428571429
+
+Average number of receiving readers per reading over received readings: 212.5
+Average number of uploading readers per reading over received readings: 8.30357142857143
+Average number of filtering readers per reading over received readings: 204.196428571429
+
+Average number of uploading readers per reading over uploaded readings: 9.8936170212766
+
+Average upload delay per reading over uploaded readings: 113806.510638298
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 24376
+Total unknown readings: 11608
+Total filtered readings: 12268
+Total uploaded readings: 500
+
+Average recieved readings per reader: 2031.33333333333
+Average unknown readings per reader: 967.333333333333
+Average filtered readings per reader: 1022.33333333333
+Average uploaded readings per reader: 41.6666666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 56
+Total number of lost readings: 0
+Total number of received readings: 56
+Total number of uploaded readings: 47
+Total number of filtered readings: 9
+
+Average number of receiving readers per reading over all readings: 228
+Average number of uploading readers per reading over all readings: 8.92857142857143
+Average number of filtering readers per reading over all readings: 219.071428571429
+
+Average number of receiving readers per reading over received readings: 228
+Average number of uploading readers per reading over received readings: 8.92857142857143
+Average number of filtering readers per reading over received readings: 219.071428571429
+
+Average number of uploading readers per reading over uploaded readings: 10.6382978723404
+
+Average upload delay per reading over uploaded readings: 113806.510638298
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 25813
+Total unknown readings: 12272
+Total filtered readings: 13006
+Total uploaded readings: 535
+
+Average recieved readings per reader: 2151.08333333333
+Average unknown readings per reader: 1022.66666666667
+Average filtered readings per reader: 1083.83333333333
+Average uploaded readings per reader: 44.5833333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 56
+Total number of lost readings: 0
+Total number of received readings: 56
+Total number of uploaded readings: 47
+Total number of filtered readings: 9
+
+Average number of receiving readers per reading over all readings: 241.803571428571
+Average number of uploading readers per reading over all readings: 9.55357142857143
+Average number of filtering readers per reading over all readings: 232.25
+
+Average number of receiving readers per reading over received readings: 241.803571428571
+Average number of uploading readers per reading over received readings: 9.55357142857143
+Average number of filtering readers per reading over received readings: 232.25
+
+Average number of uploading readers per reading over uploaded readings: 11.3829787234043
+
+Average upload delay per reading over uploaded readings: 113806.510638298
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 27193
+Total unknown readings: 12944
+Total filtered readings: 13679
+Total uploaded readings: 570
+
+Average recieved readings per reader: 2266.08333333333
+Average unknown readings per reader: 1078.66666666667
+Average filtered readings per reader: 1139.91666666667
+Average uploaded readings per reader: 47.5
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 59
+Total number of lost readings: 0
+Total number of received readings: 59
+Total number of uploaded readings: 47
+Total number of filtered readings: 12
+
+Average number of receiving readers per reading over all readings: 241.508474576271
+Average number of uploading readers per reading over all readings: 9.66101694915254
+Average number of filtering readers per reading over all readings: 231.847457627119
+
+Average number of receiving readers per reading over received readings: 241.508474576271
+Average number of uploading readers per reading over received readings: 9.66101694915254
+Average number of filtering readers per reading over received readings: 231.847457627119
+
+Average number of uploading readers per reading over uploaded readings: 12.1276595744681
+
+Average upload delay per reading over uploaded readings: 113806.510638298
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 28567
+Total unknown readings: 13604
+Total filtered readings: 14359
+Total uploaded readings: 604
+
+Average recieved readings per reader: 2380.58333333333
+Average unknown readings per reader: 1133.66666666667
+Average filtered readings per reader: 1196.58333333333
+Average uploaded readings per reader: 50.3333333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 60
+Total number of lost readings: 0
+Total number of received readings: 60
+Total number of uploaded readings: 50
+Total number of filtered readings: 10
+
+Average number of receiving readers per reading over all readings: 249.383333333333
+Average number of uploading readers per reading over all readings: 10.0666666666667
+Average number of filtering readers per reading over all readings: 239.316666666667
+
+Average number of receiving readers per reading over received readings: 249.383333333333
+Average number of uploading readers per reading over received readings: 10.0666666666667
+Average number of filtering readers per reading over received readings: 239.316666666667
+
+Average number of uploading readers per reading over uploaded readings: 12.08
+
+Average upload delay per reading over uploaded readings: 110804.6
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 29707
+Total unknown readings: 14138
+Total filtered readings: 14930
+Total uploaded readings: 639
+
+Average recieved readings per reader: 2475.58333333333
+Average unknown readings per reader: 1178.16666666667
+Average filtered readings per reader: 1244.16666666667
+Average uploaded readings per reader: 53.25
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 60
+Total number of lost readings: 0
+Total number of received readings: 60
+Total number of uploaded readings: 51
+Total number of filtered readings: 9
+
+Average number of receiving readers per reading over all readings: 259.483333333333
+Average number of uploading readers per reading over all readings: 10.65
+Average number of filtering readers per reading over all readings: 248.833333333333
+
+Average number of receiving readers per reading over received readings: 259.483333333333
+Average number of uploading readers per reading over received readings: 10.65
+Average number of filtering readers per reading over received readings: 248.833333333333
+
+Average number of uploading readers per reading over uploaded readings: 12.5294117647059
+
+Average upload delay per reading over uploaded readings: 111720.62745098
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 30890
+Total unknown readings: 14717
+Total filtered readings: 15497
+Total uploaded readings: 676
+
+Average recieved readings per reader: 2574.16666666667
+Average unknown readings per reader: 1226.41666666667
+Average filtered readings per reader: 1291.41666666667
+Average uploaded readings per reader: 56.3333333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 60
+Total number of lost readings: 0
+Total number of received readings: 60
+Total number of uploaded readings: 51
+Total number of filtered readings: 9
+
+Average number of receiving readers per reading over all readings: 269.55
+Average number of uploading readers per reading over all readings: 11.2666666666667
+Average number of filtering readers per reading over all readings: 258.283333333333
+
+Average number of receiving readers per reading over received readings: 269.55
+Average number of uploading readers per reading over received readings: 11.2666666666667
+Average number of filtering readers per reading over received readings: 258.283333333333
+
+Average number of uploading readers per reading over uploaded readings: 13.2549019607843
+
+Average upload delay per reading over uploaded readings: 111720.62745098
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 31965
+Total unknown readings: 15252
+Total filtered readings: 16010
+Total uploaded readings: 703
+
+Average recieved readings per reader: 2663.75
+Average unknown readings per reader: 1271
+Average filtered readings per reader: 1334.16666666667
+Average uploaded readings per reader: 58.5833333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 60
+Total number of lost readings: 0
+Total number of received readings: 60
+Total number of uploaded readings: 51
+Total number of filtered readings: 9
+
+Average number of receiving readers per reading over all readings: 278.55
+Average number of uploading readers per reading over all readings: 11.7166666666667
+Average number of filtering readers per reading over all readings: 266.833333333333
+
+Average number of receiving readers per reading over received readings: 278.55
+Average number of uploading readers per reading over received readings: 11.7166666666667
+Average number of filtering readers per reading over received readings: 266.833333333333
+
+Average number of uploading readers per reading over uploaded readings: 13.7843137254902
+
+Average upload delay per reading over uploaded readings: 111720.62745098
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 33090
+Total unknown readings: 15792
+Total filtered readings: 16565
+Total uploaded readings: 733
+
+Average recieved readings per reader: 2757.5
+Average unknown readings per reader: 1316
+Average filtered readings per reader: 1380.41666666667
+Average uploaded readings per reader: 61.0833333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 67
+Total number of lost readings: 0
+Total number of received readings: 67
+Total number of uploaded readings: 54
+Total number of filtered readings: 13
+
+Average number of receiving readers per reading over all readings: 258.179104477612
+Average number of uploading readers per reading over all readings: 10.9402985074627
+Average number of filtering readers per reading over all readings: 247.238805970149
+
+Average number of receiving readers per reading over received readings: 258.179104477612
+Average number of uploading readers per reading over received readings: 10.9402985074627
+Average number of filtering readers per reading over received readings: 247.238805970149
+
+Average number of uploading readers per reading over uploaded readings: 13.5740740740741
+
+Average upload delay per reading over uploaded readings: 123016.851851852
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 34265
+Total unknown readings: 16377
+Total filtered readings: 17118
+Total uploaded readings: 770
+
+Average recieved readings per reader: 2855.41666666667
+Average unknown readings per reader: 1364.75
+Average filtered readings per reader: 1426.5
+Average uploaded readings per reader: 64.1666666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 68
+Total number of lost readings: 0
+Total number of received readings: 68
+Total number of uploaded readings: 58
+Total number of filtered readings: 10
+
+Average number of receiving readers per reading over all readings: 263.058823529412
+Average number of uploading readers per reading over all readings: 11.3235294117647
+Average number of filtering readers per reading over all readings: 251.735294117647
+
+Average number of receiving readers per reading over received readings: 263.058823529412
+Average number of uploading readers per reading over received readings: 11.3235294117647
+Average number of filtering readers per reading over received readings: 251.735294117647
+
+Average number of uploading readers per reading over uploaded readings: 13.2758620689655
+
+Average upload delay per reading over uploaded readings: 119411.568965517
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 35435
+Total unknown readings: 16905
+Total filtered readings: 17719
+Total uploaded readings: 811
+
+Average recieved readings per reader: 2952.91666666667
+Average unknown readings per reader: 1408.75
+Average filtered readings per reader: 1476.58333333333
+Average uploaded readings per reader: 67.5833333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 69
+Total number of lost readings: 0
+Total number of received readings: 69
+Total number of uploaded readings: 59
+Total number of filtered readings: 10
+
+Average number of receiving readers per reading over all readings: 268.550724637681
+Average number of uploading readers per reading over all readings: 11.7536231884058
+Average number of filtering readers per reading over all readings: 256.797101449275
+
+Average number of receiving readers per reading over received readings: 268.550724637681
+Average number of uploading readers per reading over received readings: 11.7536231884058
+Average number of filtering readers per reading over received readings: 256.797101449275
+
+Average number of uploading readers per reading over uploaded readings: 13.7457627118644
+
+Average upload delay per reading over uploaded readings: 117387.661016949
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 36761
+Total unknown readings: 17571
+Total filtered readings: 18354
+Total uploaded readings: 836
+
+Average recieved readings per reader: 3063.41666666667
+Average unknown readings per reader: 1464.25
+Average filtered readings per reader: 1529.5
+Average uploaded readings per reader: 69.6666666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 70
+Total number of lost readings: 0
+Total number of received readings: 70
+Total number of uploaded readings: 60
+Total number of filtered readings: 10
+
+Average number of receiving readers per reading over all readings: 274.142857142857
+Average number of uploading readers per reading over all readings: 11.9428571428571
+Average number of filtering readers per reading over all readings: 262.2
+
+Average number of receiving readers per reading over received readings: 274.142857142857
+Average number of uploading readers per reading over received readings: 11.9428571428571
+Average number of filtering readers per reading over received readings: 262.2
+
+Average number of uploading readers per reading over uploaded readings: 13.9333333333333
+
+Average upload delay per reading over uploaded readings: 115431.216666667
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 38181
+Total unknown readings: 18243
+Total filtered readings: 19055
+Total uploaded readings: 883
+
+Average recieved readings per reader: 3181.75
+Average unknown readings per reader: 1520.25
+Average filtered readings per reader: 1587.91666666667
+Average uploaded readings per reader: 73.5833333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 70
+Total number of lost readings: 0
+Total number of received readings: 70
+Total number of uploaded readings: 61
+Total number of filtered readings: 9
+
+Average number of receiving readers per reading over all readings: 284.828571428571
+Average number of uploading readers per reading over all readings: 12.6142857142857
+Average number of filtering readers per reading over all readings: 272.214285714286
+
+Average number of receiving readers per reading over received readings: 284.828571428571
+Average number of uploading readers per reading over received readings: 12.6142857142857
+Average number of filtering readers per reading over received readings: 272.214285714286
+
+Average number of uploading readers per reading over uploaded readings: 14.4754098360656
+
+Average upload delay per reading over uploaded readings: 117380.672131148
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 39379
+Total unknown readings: 18782
+Total filtered readings: 19671
+Total uploaded readings: 926
+
+Average recieved readings per reader: 3281.58333333333
+Average unknown readings per reader: 1565.16666666667
+Average filtered readings per reader: 1639.25
+Average uploaded readings per reader: 77.1666666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 74
+Total number of lost readings: 0
+Total number of received readings: 74
+Total number of uploaded readings: 63
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 278.337837837838
+Average number of uploading readers per reading over all readings: 12.5135135135135
+Average number of filtering readers per reading over all readings: 265.824324324324
+
+Average number of receiving readers per reading over received readings: 278.337837837838
+Average number of uploading readers per reading over received readings: 12.5135135135135
+Average number of filtering readers per reading over received readings: 265.824324324324
+
+Average number of uploading readers per reading over uploaded readings: 14.6984126984127
+
+Average upload delay per reading over uploaded readings: 118473.365079365
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 40287
+Total unknown readings: 19202
+Total filtered readings: 20134
+Total uploaded readings: 951
+
+Average recieved readings per reader: 3357.25
+Average unknown readings per reader: 1600.16666666667
+Average filtered readings per reader: 1677.83333333333
+Average uploaded readings per reader: 79.25
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 75
+Total number of lost readings: 0
+Total number of received readings: 75
+Total number of uploaded readings: 64
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 281.133333333333
+Average number of uploading readers per reading over all readings: 12.68
+Average number of filtering readers per reading over all readings: 268.453333333333
+
+Average number of receiving readers per reading over received readings: 281.133333333333
+Average number of uploading readers per reading over received readings: 12.68
+Average number of filtering readers per reading over received readings: 268.453333333333
+
+Average number of uploading readers per reading over uploaded readings: 14.859375
+
+Average upload delay per reading over uploaded readings: 116720.234375
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 41123
+Total unknown readings: 19630
+Total filtered readings: 20522
+Total uploaded readings: 971
+
+Average recieved readings per reader: 3426.91666666667
+Average unknown readings per reader: 1635.83333333333
+Average filtered readings per reader: 1710.16666666667
+Average uploaded readings per reader: 80.9166666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 76
+Total number of lost readings: 0
+Total number of received readings: 76
+Total number of uploaded readings: 66
+Total number of filtered readings: 10
+
+Average number of receiving readers per reading over all readings: 282.802631578947
+Average number of uploading readers per reading over all readings: 12.7763157894737
+Average number of filtering readers per reading over all readings: 270.026315789474
+
+Average number of receiving readers per reading over received readings: 282.802631578947
+Average number of uploading readers per reading over received readings: 12.7763157894737
+Average number of filtering readers per reading over received readings: 270.026315789474
+
+Average number of uploading readers per reading over uploaded readings: 14.7121212121212
+
+Average upload delay per reading over uploaded readings: 115492.151515152
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 42003
+Total unknown readings: 20064
+Total filtered readings: 20946
+Total uploaded readings: 993
+
+Average recieved readings per reader: 3500.25
+Average unknown readings per reader: 1672
+Average filtered readings per reader: 1745.5
+Average uploaded readings per reader: 82.75
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 77
+Total number of lost readings: 0
+Total number of received readings: 77
+Total number of uploaded readings: 67
+Total number of filtered readings: 10
+
+Average number of receiving readers per reading over all readings: 284.922077922078
+Average number of uploading readers per reading over all readings: 12.8961038961039
+Average number of filtering readers per reading over all readings: 272.025974025974
+
+Average number of receiving readers per reading over received readings: 284.922077922078
+Average number of uploading readers per reading over received readings: 12.8961038961039
+Average number of filtering readers per reading over received readings: 272.025974025974
+
+Average number of uploading readers per reading over uploaded readings: 14.8208955223881
+
+Average upload delay per reading over uploaded readings: 116554.268656716
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 43128
+Total unknown readings: 20614
+Total filtered readings: 21493
+Total uploaded readings: 1021
+
+Average recieved readings per reader: 3594
+Average unknown readings per reader: 1717.83333333333
+Average filtered readings per reader: 1791.08333333333
+Average uploaded readings per reader: 85.0833333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 77
+Total number of lost readings: 0
+Total number of received readings: 77
+Total number of uploaded readings: 68
+Total number of filtered readings: 9
+
+Average number of receiving readers per reading over all readings: 292.38961038961
+Average number of uploading readers per reading over all readings: 13.2597402597403
+Average number of filtering readers per reading over all readings: 279.12987012987
+
+Average number of receiving readers per reading over received readings: 292.38961038961
+Average number of uploading readers per reading over received readings: 13.2597402597403
+Average number of filtering readers per reading over received readings: 279.12987012987
+
+Average number of uploading readers per reading over uploaded readings: 15.0147058823529
+
+Average upload delay per reading over uploaded readings: 115559.514705882
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 44258
+Total unknown readings: 21159
+Total filtered readings: 22044
+Total uploaded readings: 1055
+
+Average recieved readings per reader: 3688.16666666667
+Average unknown readings per reader: 1763.25
+Average filtered readings per reader: 1837
+Average uploaded readings per reader: 87.9166666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 80
+Total number of lost readings: 0
+Total number of received readings: 80
+Total number of uploaded readings: 69
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 288.7375
+Average number of uploading readers per reading over all readings: 13.1875
+Average number of filtering readers per reading over all readings: 275.55
+
+Average number of receiving readers per reading over received readings: 288.7375
+Average number of uploading readers per reading over received readings: 13.1875
+Average number of filtering readers per reading over received readings: 275.55
+
+Average number of uploading readers per reading over uploaded readings: 15.2898550724638
+
+Average upload delay per reading over uploaded readings: 114029.710144928
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 45458
+Total unknown readings: 21729
+Total filtered readings: 22645
+Total uploaded readings: 1084
+
+Average recieved readings per reader: 3788.16666666667
+Average unknown readings per reader: 1810.75
+Average filtered readings per reader: 1887.08333333333
+Average uploaded readings per reader: 90.3333333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 80
+Total number of lost readings: 0
+Total number of received readings: 80
+Total number of uploaded readings: 69
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 296.6125
+Average number of uploading readers per reading over all readings: 13.55
+Average number of filtering readers per reading over all readings: 283.0625
+
+Average number of receiving readers per reading over received readings: 296.6125
+Average number of uploading readers per reading over received readings: 13.55
+Average number of filtering readers per reading over received readings: 283.0625
+
+Average number of uploading readers per reading over uploaded readings: 15.7101449275362
+
+Average upload delay per reading over uploaded readings: 114029.710144928
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 46583
+Total unknown readings: 22279
+Total filtered readings: 23191
+Total uploaded readings: 1113
+
+Average recieved readings per reader: 3881.91666666667
+Average unknown readings per reader: 1856.58333333333
+Average filtered readings per reader: 1932.58333333333
+Average uploaded readings per reader: 92.75
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 80
+Total number of lost readings: 0
+Total number of received readings: 80
+Total number of uploaded readings: 69
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 303.8
+Average number of uploading readers per reading over all readings: 13.9125
+Average number of filtering readers per reading over all readings: 289.8875
+
+Average number of receiving readers per reading over received readings: 303.8
+Average number of uploading readers per reading over received readings: 13.9125
+Average number of filtering readers per reading over received readings: 289.8875
+
+Average number of uploading readers per reading over uploaded readings: 16.1304347826087
+
+Average upload delay per reading over uploaded readings: 114029.710144928
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 47798
+Total unknown readings: 22849
+Total filtered readings: 23806
+Total uploaded readings: 1143
+
+Average recieved readings per reader: 3983.16666666667
+Average unknown readings per reader: 1904.08333333333
+Average filtered readings per reader: 1983.83333333333
+Average uploaded readings per reader: 95.25
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 81
+Total number of lost readings: 0
+Total number of received readings: 81
+Total number of uploaded readings: 72
+Total number of filtered readings: 9
+
+Average number of receiving readers per reading over all readings: 308.012345679012
+Average number of uploading readers per reading over all readings: 14.1111111111111
+Average number of filtering readers per reading over all readings: 293.901234567901
+
+Average number of receiving readers per reading over received readings: 308.012345679012
+Average number of uploading readers per reading over received readings: 14.1111111111111
+Average number of filtering readers per reading over received readings: 293.901234567901
+
+Average number of uploading readers per reading over uploaded readings: 15.875
+
+Average upload delay per reading over uploaded readings: 114849.347222222
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 49112
+Total unknown readings: 23485
+Total filtered readings: 24447
+Total uploaded readings: 1180
+
+Average recieved readings per reader: 4092.66666666667
+Average unknown readings per reader: 1957.08333333333
+Average filtered readings per reader: 2037.25
+Average uploaded readings per reader: 98.3333333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 82
+Total number of lost readings: 0
+Total number of received readings: 82
+Total number of uploaded readings: 73
+Total number of filtered readings: 9
+
+Average number of receiving readers per reading over all readings: 312.524390243902
+Average number of uploading readers per reading over all readings: 14.390243902439
+Average number of filtering readers per reading over all readings: 298.134146341463
+
+Average number of receiving readers per reading over received readings: 312.524390243902
+Average number of uploading readers per reading over received readings: 14.390243902439
+Average number of filtering readers per reading over received readings: 298.134146341463
+
+Average number of uploading readers per reading over uploaded readings: 16.1643835616438
+
+Average upload delay per reading over uploaded readings: 113774.630136986
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 50438
+Total unknown readings: 24133
+Total filtered readings: 25098
+Total uploaded readings: 1207
+
+Average recieved readings per reader: 4203.16666666667
+Average unknown readings per reader: 2011.08333333333
+Average filtered readings per reader: 2091.5
+Average uploaded readings per reader: 100.583333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 88
+Total number of lost readings: 0
+Total number of received readings: 88
+Total number of uploaded readings: 73
+Total number of filtered readings: 15
+
+Average number of receiving readers per reading over all readings: 298.920454545455
+Average number of uploading readers per reading over all readings: 13.7159090909091
+Average number of filtering readers per reading over all readings: 285.204545454545
+
+Average number of receiving readers per reading over received readings: 298.920454545455
+Average number of uploading readers per reading over received readings: 13.7159090909091
+Average number of filtering readers per reading over received readings: 285.204545454545
+
+Average number of uploading readers per reading over uploaded readings: 16.5342465753425
+
+Average upload delay per reading over uploaded readings: 113774.630136986
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 51660
+Total unknown readings: 24730
+Total filtered readings: 25695
+Total uploaded readings: 1235
+
+Average recieved readings per reader: 4305
+Average unknown readings per reader: 2060.83333333333
+Average filtered readings per reader: 2141.25
+Average uploaded readings per reader: 102.916666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 88
+Total number of lost readings: 0
+Total number of received readings: 88
+Total number of uploaded readings: 73
+Total number of filtered readings: 15
+
+Average number of receiving readers per reading over all readings: 306.022727272727
+Average number of uploading readers per reading over all readings: 14.0340909090909
+Average number of filtering readers per reading over all readings: 291.988636363636
+
+Average number of receiving readers per reading over received readings: 306.022727272727
+Average number of uploading readers per reading over received readings: 14.0340909090909
+Average number of filtering readers per reading over received readings: 291.988636363636
+
+Average number of uploading readers per reading over uploaded readings: 16.9178082191781
+
+Average upload delay per reading over uploaded readings: 113774.630136986
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 52818
+Total unknown readings: 25317
+Total filtered readings: 26244
+Total uploaded readings: 1257
+
+Average recieved readings per reader: 4401.5
+Average unknown readings per reader: 2109.75
+Average filtered readings per reader: 2187
+Average uploaded readings per reader: 104.75
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 88
+Total number of lost readings: 0
+Total number of received readings: 88
+Total number of uploaded readings: 74
+Total number of filtered readings: 14
+
+Average number of receiving readers per reading over all readings: 312.511363636364
+Average number of uploading readers per reading over all readings: 14.2840909090909
+Average number of filtering readers per reading over all readings: 298.227272727273
+
+Average number of receiving readers per reading over received readings: 312.511363636364
+Average number of uploading readers per reading over received readings: 14.2840909090909
+Average number of filtering readers per reading over received readings: 298.227272727273
+
+Average number of uploading readers per reading over uploaded readings: 16.9864864864865
+
+Average upload delay per reading over uploaded readings: 114333.851351351
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 54228
+Total unknown readings: 25940
+Total filtered readings: 26986
+Total uploaded readings: 1302
+
+Average recieved readings per reader: 4519
+Average unknown readings per reader: 2161.66666666667
+Average filtered readings per reader: 2248.83333333333
+Average uploaded readings per reader: 108.5
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 89
+Total number of lost readings: 0
+Total number of received readings: 89
+Total number of uploaded readings: 76
+Total number of filtered readings: 13
+
+Average number of receiving readers per reading over all readings: 317.842696629213
+Average number of uploading readers per reading over all readings: 14.6292134831461
+Average number of filtering readers per reading over all readings: 303.213483146067
+
+Average number of receiving readers per reading over received readings: 317.842696629213
+Average number of uploading readers per reading over received readings: 14.6292134831461
+Average number of filtering readers per reading over received readings: 303.213483146067
+
+Average number of uploading readers per reading over uploaded readings: 17.1315789473684
+
+Average upload delay per reading over uploaded readings: 117205.302631579
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 55363
+Total unknown readings: 26480
+Total filtered readings: 27549
+Total uploaded readings: 1334
+
+Average recieved readings per reader: 4613.58333333333
+Average unknown readings per reader: 2206.66666666667
+Average filtered readings per reader: 2295.75
+Average uploaded readings per reader: 111.166666666667
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 89
+Total number of lost readings: 0
+Total number of received readings: 89
+Total number of uploaded readings: 78
+Total number of filtered readings: 11
+
+Average number of receiving readers per reading over all readings: 324.52808988764
+Average number of uploading readers per reading over all readings: 14.9887640449438
+Average number of filtering readers per reading over all readings: 309.539325842697
+
+Average number of receiving readers per reading over received readings: 324.52808988764
+Average number of uploading readers per reading over received readings: 14.9887640449438
+Average number of filtering readers per reading over received readings: 309.539325842697
+
+Average number of uploading readers per reading over uploaded readings: 17.1025641025641
+
+Average upload delay per reading over uploaded readings: 117606.064102564
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 56523
+Total unknown readings: 27005
+Total filtered readings: 28155
+Total uploaded readings: 1363
+
+Average recieved readings per reader: 4710.25
+Average unknown readings per reader: 2250.41666666667
+Average filtered readings per reader: 2346.25
+Average uploaded readings per reader: 113.583333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 93
+Total number of lost readings: 0
+Total number of received readings: 93
+Total number of uploaded readings: 80
+Total number of filtered readings: 13
+
+Average number of receiving readers per reading over all readings: 317.397849462366
+Average number of uploading readers per reading over all readings: 14.6559139784946
+Average number of filtering readers per reading over all readings: 302.741935483871
+
+Average number of receiving readers per reading over received readings: 317.397849462366
+Average number of uploading readers per reading over received readings: 14.6559139784946
+Average number of filtering readers per reading over received readings: 302.741935483871
+
+Average number of uploading readers per reading over uploaded readings: 17.0375
+
+Average upload delay per reading over uploaded readings: 114690.95
+
+
+
+================================================================================
+
+SimulationManager.PrintStatus(): simulation status.
+
+================================================================================
+
+Simulation results:
+--> Reader Id: 10184/0/0
+  |-> recieved: 12702
+  |-> unknown: 6087
+  |-> filtered: 6336
+  |-> uploaded: 279
+  |-> Entry time: 3
+  \-> Exit time: 3413
+
+--> Reader Id: 10184/300/0
+  |-> recieved: 8268
+  |-> unknown: 3951
+  |-> filtered: 4140
+  |-> uploaded: 177
+  |-> Entry time: 355
+  \-> Exit time: 2590
+
+--> Reader Id: 10184/600/0
+  |-> recieved: 4731
+  |-> unknown: 2254
+  |-> filtered: 2368
+  |-> uploaded: 109
+  |-> Entry time: 658
+  \-> Exit time: 1934
+
+--> Reader Id: 10184/900/0
+  |-> recieved: 8614
+  |-> unknown: 4120
+  |-> filtered: 4282
+  |-> uploaded: 212
+  |-> Entry time: 949
+  \-> Exit time: 3266
+
+--> Reader Id: 10184/1200/0
+  |-> recieved: 4156
+  |-> unknown: 1985
+  |-> filtered: 2066
+  |-> uploaded: 105
+  |-> Entry time: 1429
+  \-> Exit time: 2561
+
+--> Reader Id: 10184/1500/0
+  |-> recieved: 7135
+  |-> unknown: 3417
+  |-> filtered: 3516
+  |-> uploaded: 202
+  |-> Entry time: 1680
+  \-> Exit time: 4262
+
+--> Reader Id: 10184/1800/0
+  |-> recieved: 1386
+  |-> unknown: 658
+  |-> filtered: 693
+  |-> uploaded: 35
+  |-> Entry time: 1800
+  \-> Exit time: 2182
+
+--> Reader Id: 10184/2100/0
+  |-> recieved: 872
+  |-> unknown: 413
+  |-> filtered: 439
+  |-> uploaded: 20
+  |-> Entry time: 2384
+  \-> Exit time: 2620
+
+--> Reader Id: 10184/2400/0
+  |-> recieved: 3965
+  |-> unknown: 1895
+  |-> filtered: 1966
+  |-> uploaded: 104
+  |-> Entry time: 2550
+  \-> Exit time: 4413
+
+--> Reader Id: 10184/2700/0
+  |-> recieved: 2954
+  |-> unknown: 1414
+  |-> filtered: 1461
+  |-> uploaded: 79
+  |-> Entry time: 2819
+  \-> Exit time: 5401
+
+--> Reader Id: 10184/3000/0
+  |-> recieved: 1857
+  |-> unknown: 885
+  |-> filtered: 926
+  |-> uploaded: 46
+  |-> Entry time: 3106
+  \-> Exit time: 3747
+
+--> Reader Id: 10184/3300/0
+  |-> recieved: 963
+  |-> unknown: 451
+  |-> filtered: 484
+  |-> uploaded: 28
+  |-> Entry time: 3348
+  \-> Exit time: 3812
+
+
+Simulation summary:
+Total readers: 12
+
+Total recieved readings: 57603
+Total unknown readings: 27530
+Total filtered readings: 28677
+Total uploaded readings: 1396
+
+Average recieved readings per reader: 4800.25
+Average unknown readings per reader: 2294.16666666667
+Average filtered readings per reader: 2389.75
+Average uploaded readings per reader: 116.333333333333
+
+================================================================================
+
+Simulation statistics:
+
+Reading loss statistics:
+Total number of unique readings: 93
+Total number of lost readings: 0
+Total number of received readings: 93
+Total number of uploaded readings: 80
+Total number of filtered readings: 13
+
+Average number of receiving readers per reading over all readings: 323.365591397849
+Average number of uploading readers per reading over all readings: 15.010752688172
+Average number of filtering readers per reading over all readings: 308.354838709677
+
+Average number of receiving readers per reading over received readings: 323.365591397849
+Average number of uploading readers per reading over received readings: 15.010752688172
+Average number of filtering readers per reading over received readings: 308.354838709677
+
+Average number of uploading readers per reading over uploaded readings: 17.45
+
+Average upload delay per reading over uploaded readings: 114690.95
+
+
+
+================================================================================
+
