@@ -1,2 +1,2 @@
-TIMEOUT 7240 /nobreak
+rem TIMEOUT 7240 /nobreak
 ( START CMD /K CALL "ble1.bat" ) & ( START CMD /K CALL "ble2_1.bat" ) & ( START CMD /K CALL "ble2_3.bat" ) & ( START CMD /K CALL "ble2_5.bat" ) & ( START CMD /K CALL "ble2_7.bat" ) & ( START CMD /K CALL "ble2_9.bat" ) & ( START CMD /K CALL "ble3.bat" ) & ( START CMD /K CALL "ble4_1.bat" ) & ( START CMD /K CALL "ble4_3.bat" ) & ( START CMD /K CALL "ble4_5.bat" ) & ( START CMD /K CALL "ble4_7.bat" ) & ( START CMD /K CALL "ble4_9.bat" )
