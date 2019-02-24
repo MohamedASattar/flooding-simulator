@@ -1,1 +1,1 @@
-flooding-simulator 60 0.2 1 5 2 0.1 1> Out\ble2_1.txt  2>ERR\ble2_1.txt
+flooding-simulator 60 0.1 1 5 2 0.1 1> Out\ble2_1.txt  2>ERR\ble2_1.txt
